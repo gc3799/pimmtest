@@ -1,7 +1,7 @@
 {
-    "$id": "c_fax",
+    "$id": "c_bb_fax",
     "$schema": "https://schema.yext.com/config/km/field/v1",
-    "displayName": "fax",
+    "displayName": "bb_fax",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
     "typeId": "string",

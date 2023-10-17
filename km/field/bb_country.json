@@ -1,7 +1,7 @@
 {
-    "$id": "c_country",
+    "$id": "c_bb_country",
     "$schema": "https://schema.yext.com/config/km/field/v1",
-    "displayName": "country",
+    "displayName": "bb_country",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
     "typeId": "string",

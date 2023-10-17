@@ -1,0 +1,14 @@
+{
+    "$id": "c_breakfastHours_breakfastHoursText_pl",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "breakfastHours_breakfastHoursText_pl",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

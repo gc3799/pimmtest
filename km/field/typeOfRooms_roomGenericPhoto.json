@@ -1,0 +1,14 @@
+{
+    "$id": "c_typeOfRooms_roomGenericPhoto",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "typeOfRooms_roomGenericPhoto",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

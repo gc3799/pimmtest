@@ -1,0 +1,14 @@
+{
+    "$id": "c_gmt",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "gmt",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

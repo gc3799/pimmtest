@@ -1,0 +1,14 @@
+{
+    "$id": "c_localHotelContent_content_pl",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "localHotelContent_content_pl",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

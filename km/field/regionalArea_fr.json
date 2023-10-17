@@ -1,0 +1,14 @@
+{
+    "$id": "c_regionalArea_fr",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "regionalArea_fr",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

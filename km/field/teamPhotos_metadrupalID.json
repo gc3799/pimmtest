@@ -1,0 +1,14 @@
+{
+    "$id": "c_teamPhotos_metadrupalID",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "teamPhotos_metadrupalID",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

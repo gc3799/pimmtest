@@ -1,0 +1,14 @@
+{
+    "$id": "c_pageTitle_it",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "pageTitle_it",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

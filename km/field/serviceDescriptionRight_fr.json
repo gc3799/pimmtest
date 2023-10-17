@@ -1,0 +1,13 @@
+{
+    "$id": "c_serviceDescriptionRight_fr",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "serviceDescriptionRight_fr",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "richTextV2",
+    "type": {
+        "richTextV2Type": {
+            "maxLength": 100000
+        }
+    }
+}

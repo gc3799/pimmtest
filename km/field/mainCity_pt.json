@@ -1,0 +1,14 @@
+{
+    "$id": "c_mainCity_pt",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "mainCity_pt",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

@@ -1,7 +1,7 @@
 {
-    "$id": "c_city",
+    "$id": "c_bb_city",
     "$schema": "https://schema.yext.com/config/km/field/v1",
-    "displayName": "city",
+    "displayName": "bb_city",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
     "typeId": "string",

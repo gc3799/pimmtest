@@ -1,7 +1,7 @@
 {
-    "$id": "c_services",
+    "$id": "c_bb_services",
     "$schema": "https://schema.yext.com/config/km/field/v1",
-    "displayName": "services",
+    "displayName": "bb_services",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
     "typeId": "string",

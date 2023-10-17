@@ -1,0 +1,14 @@
+{
+    "$id": "c_data_trustYouId",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data_trustYouId",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$id": "c_pimcore_internal_creationDate",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "pimcore_internal_creationDate",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "date",
+    "type": {
+        "dateType": {}
+    }
+}

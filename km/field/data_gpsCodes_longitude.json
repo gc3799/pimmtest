@@ -1,8 +1,0 @@
-{
-    "$id": "c_data_gpsCodes_longitude",
-    "$schema": "https://schema.yext.com/config/km/field/v1",
-    "displayName": "data_gpsCodes_longitude",
-    "group": "NONE",
-    "localization": "PRIMARY_ONLY",
-    "typeId": "decimal"
-}

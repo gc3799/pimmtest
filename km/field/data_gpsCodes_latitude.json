@@ -4,5 +4,5 @@
     "displayName": "data_gpsCodes_latitude",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
-    "typeId": "float"
+    "typeId": "decimal"
 }

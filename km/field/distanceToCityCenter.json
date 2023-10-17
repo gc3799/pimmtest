@@ -3,6 +3,9 @@
     "$schema": "https://schema.yext.com/config/km/field/v1",
     "displayName": "distanceToCityCenter",
     "group": "NONE",
-    "localization": "PRIMARY_ONLY",
-    "typeId": "float"
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
 }
